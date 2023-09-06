@@ -29,8 +29,11 @@ color: red;}
     html{font-size: 15px;}
     body{background-color: #FF9800;}
     div{width: 85%;}
-    .tablet{display: inline-block;}    
-}
+    .tablet{display: inline-block;}
+    
+} 
+    
+
 /* Estilo para PC*/
 @media screen and (min-width:769px){
     html{font-size: 16px;}
