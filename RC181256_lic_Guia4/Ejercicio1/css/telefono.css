@@ -1,0 +1,40 @@
+section>article{
+    width: 95%;
+    padding: 1% auto; 
+    margin:  3% auto;
+    background-color: rgb(185, 187, 190);
+    border: solid 1px black;
+    border-radius: 10px;
+    float: none;
+    text-align: justify;
+    
+    
+    
+}
+article{
+    
+    width: 80%;
+
+    padding: 2% auto; 
+    margin: 0.5% auto;
+    background-color: rgb(238, 237, 220);
+    border: solid 1px black;
+    border-radius: 10px;
+    float: none;
+    text-align: justify;
+    height: 60%;
+
+}
+p.precio{float: none;
+    font-size: 40px;
+    border: 2px solid black;
+    margin: 10px auto;
+    background-color: rgb(118, 226, 163);
+    text-align: center;
+        
+}
+img{width: 60%;
+    display: block;
+    margin: 3% auto;
+       
+}
